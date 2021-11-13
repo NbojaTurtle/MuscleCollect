@@ -1,3 +1,6 @@
 # MuscleCollect
 It's a Pacman Clone
-Use in Java
+
+Game Run By Java
+
+USE Arrow to Control charector
